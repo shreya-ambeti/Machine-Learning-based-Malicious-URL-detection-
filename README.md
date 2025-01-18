@@ -31,9 +31,7 @@ This project focuses on detecting malicious URLs using machine learning techniqu
 ## 📂 Project Structure
 ```plaintext
 ├── data/                  # Datasets used for training and testing
-├── codes/                 # Machine learning code
-├── app/                   # Streamlit web app code
-├── results/               # Evaluation metrics and comparison plots
+├── codes/                 # Machine learning and Streamlit web app code 
 ├── README.md              # Project documentation
 ```
 
