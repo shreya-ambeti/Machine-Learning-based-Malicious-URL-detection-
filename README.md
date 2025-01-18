@@ -31,13 +31,10 @@ This project focuses on detecting malicious URLs using machine learning techniqu
 ## 📂 Project Structure
 ```plaintext
 ├── data/                  # Datasets used for training and testing
-├── models/                # Saved machine learning models
-├── scripts/               # Python scripts for data preprocessing, training, and evaluation
+├── codes/                 # Machine learning code
 ├── app/                   # Streamlit web app code
 ├── results/               # Evaluation metrics and comparison plots
 ├── README.md              # Project documentation
-├── requirements.txt       # Dependencies for the project
-└── LICENSE                # License information
 ```
 
 ## 📊 Implementation Steps
